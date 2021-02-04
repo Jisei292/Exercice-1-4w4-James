@@ -221,7 +221,7 @@ Animation Page D'acceuil
   animation-delay: 2.5s;
 }
 
-.icone div {
+.icones div {
   animation: anim-entete 2s 2s both cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
